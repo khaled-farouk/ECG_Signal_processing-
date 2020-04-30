@@ -7,4 +7,5 @@ The QRS complex is the most prominent feature in ECG signal and is therefore use
 The ecg_wavelet() class in ecg_processing.py provides a [Butterworth_filter](https://en.wikipedia.org/wiki/Butterworth_filter)for noise removal and QRS detection via [wavelet transform](https://en.wikipedia.org/wiki/Wavelet_transform).
  The .get_qrs() method returns a dataframe including a column labeling each detected QRS timepoint.
 
-![](images/ecg.png)
+![ECG_SIG](images/ecg.png)
+![](qrs_detect.png)

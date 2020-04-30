@@ -8,4 +8,4 @@ The ecg_wavelet() class in ecg_processing.py provides a [Butterworth_filter](htt
  The .get_qrs() method returns a dataframe including a column labeling each detected QRS timepoint.
 
 ![ECG_SIG](images/ecg.png)
-![](qrs_detect.png)
+![](images/qrs_detect.png)
